@@ -1,0 +1,11 @@
+{
+  "identifier": "org.sjmcl.weather-effects",
+  "name": "背景粒子特效",
+  "description": "10种 Minecraft 风格的动态背景特效：雨、雪、沙暴、星空、极光、落叶、水下、火焰、日落、MC风景",
+  "author": "hemekewayoshino",
+  "version": "0.1.0",
+  "frontend": {
+    "entry": "frontend/index.js"
+  },
+  "minimalLauncherVersion": "1.1.3"
+}
