@@ -34,7 +34,7 @@
 ## 使用方法
 
 1. 在 Releases 下载 org.sjmcl.weather-effects.sjmclx
-2. 打开 SJMCL → 设置 → 扩展管理 → 导入
+2. 打开 SJMCL → 设置 → 扩展管理 → 导入，插件支持选择文件导入和拖动导入
 3. 在扩展设置页或首页卡片中选择喜欢的特效
 
 ## 兼容性
